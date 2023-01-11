@@ -98,6 +98,11 @@
 	  margin-right: 40px;
 	  border-radius: 50%;
   }
+
+  .project-list__screenshot {
+	width: 100%;
+	margin-bottom: 15px;
+}
   
   .page-header {
 	display: -webkit-box;
